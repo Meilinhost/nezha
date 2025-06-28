@@ -39,8 +39,8 @@ curl -L https://cdn.jsdelivr.net/gh/midoks/nezha@latest/script/install.sh -o nez
 curl -L https://cdn.jsdelivr.net/gh/midoks/nezha@latest/script/install.sh -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh
 
 
-curl -L https://raw.githubusercontent.com/midoks/nezha/main/script/install.sh -o nezha.sh && chmod +x nezha.sh && sudo CN=true ./nezha.sh
-curl -L https://raw.githubusercontent.com/midoks/nezha/main/script/install.sh -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh
+curl -L https://raw.githubusercontent.com/Meilinhost/nezha/main/script/install.sh -o nezha.sh && chmod +x nezha.sh && sudo CN=true ./nezha.sh
+curl -L https://raw.githubusercontent.com/Meilinhost/nezha/main/script/install.sh -o nezha.sh && chmod +x nezha.sh &&  ./nezha.sh
 
 ```
 
